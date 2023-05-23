@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: siddarthanepal.com.np
+Token: 810d7de55412328be76f6b88c4b59132602c6b5d47572b394b3360a4f59a668b
