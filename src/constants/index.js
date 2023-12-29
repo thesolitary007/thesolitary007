@@ -88,7 +88,7 @@ const experiences = [
     company_name: 'Phidim Municipality Panchthar',
     icon: school,
     iconBg: '#333333',
-    date: 'Apr 2008 - March 2021',
+    date: 'Apr 2008 - Mar 2021',
   },
   {
     title: 'Global School of Science',
