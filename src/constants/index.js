@@ -99,7 +99,7 @@ const experiences = [
   },
   {
     title: 'Thapar Institute of Engineering and Technology',
-    company_name: 'Patiala Pubjab',
+    company_name: 'Patiala Punjab',
     icon: uni,
     iconBg: '#333333',
     date: 'Jan 2024 - Present',
